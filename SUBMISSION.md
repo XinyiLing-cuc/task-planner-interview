@@ -18,7 +18,7 @@
 数据库故障及额度恢复失败尚未进行故障注入验证。
 
 ## 交付入口
-
+- [产品方案、用户流程、页面草图、开发任务拆解与验收案例](PRODUCT.md)
 - [规格说明与验收案例](SPEC.md)
 - [服务端额度控制与查询](src/demo-ai-app/operations.ts)
 - [Wasp 操作声明](src/demo-ai-app/demo-ai-app.wasp.ts)
